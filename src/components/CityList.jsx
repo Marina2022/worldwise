@@ -5,9 +5,9 @@ import Message from "./Message.jsx";
 import {useCities} from "../contexts/CityProvider.jsx";
 
 const CityList = () => {
-  const {cities, isLoading} = useCities()
+  const {cities, isLoading, isDeleteLoading} = useCities()
 
-  if (isLoading) return <Spinner />
+  if (isLoading || isDeleteLoading) return <Spinner />
 
   if (!cities.length) return <Message message={'Add your first city by clicking on the map'} />
 

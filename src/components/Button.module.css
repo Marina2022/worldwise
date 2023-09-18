@@ -9,6 +9,10 @@
   cursor: pointer;
 }
 
+.btn:active {
+box-shadow: 5px 5px 5px rgb(0,0,0,.5);
+}
+
 .primary {
   font-weight: 700;
   background-color: var(--color-brand--2);

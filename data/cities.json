@@ -1,52 +1,76 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "cityName": "Camon",
+      "date": "2023-09-16T09:02:35.538Z",
+      "notes": "eee",
+      "emoji": "🇫🇷",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
+        "lat": "49.90171121726089",
+        "lng": "2.3840332031250004"
       },
-      "id": 73930385
+      "country": "France",
+      "id": 98443204
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "cityName": "Namayingo",
+      "date": "2023-09-16T09:11:50.684Z",
+      "notes": "dd",
+      "emoji": "🇺🇬",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "0",
+        "lng": "33.75000000000001"
       },
-      "id": 17806751
+      "country": "Uganda",
+      "id": 98443207
     },
     {
-      "cityName": "Barselona",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "cityName": "Greater London",
+      "date": "2023-09-18T07:43:03.542Z",
+      "notes": "dd",
+      "emoji": "🇬🇧",
       "position": {
-        "lat": 41.389,
-        "lng": 2.18
+        "lat": "51.51483200132125",
+        "lng": "-0.09029388427734375"
       },
-      "id": 17806741
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "id": 98443208
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Nakasongola",
+      "date": "2023-09-18T07:54:16.145Z",
+      "notes": "ddd",
+      "emoji": "🇺🇬",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "1.3951257897508365",
+        "lng": "32.16796875"
       },
-      "id": 98443197
+      "country": "Uganda",
+      "id": 98443209
+    },
+    {
+      "cityName": "Rhymney",
+      "date": "2023-09-18T08:03:24.254Z",
+      "notes": "dddggg",
+      "emoji": "🇬🇧",
+      "position": {
+        "lat": "51.7576404113981",
+        "lng": "-3.3013916015625"
+      },
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "id": 98443214
+    },
+    {
+      "cityName": "Halinow",
+      "date": "2023-09-18T15:22:06.319Z",
+      "notes": "good",
+      "emoji": "🇵🇱",
+      "position": {
+        "lat": "52.234528294213646",
+        "lng": "21.346435546875"
+      },
+      "country": "Poland",
+      "id": 98443215
     }
   ]
 }

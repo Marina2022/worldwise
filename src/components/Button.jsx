@@ -1,10 +1,10 @@
 import s from './Button.module.css'
 import cn from 'classnames'
 
-const Button = ({children, onClick, type}) => {
+const Button = ({children, onClick = ()=>{}, type}) => {
   return (
     <button onClick={(e) => {
-      e.preventDefault()
+      if (type  === 'back')  e.preventDefault()
       onClick()
     }
 

@@ -1,3 +1,9 @@
+:global(.cal) {
+  /*font-size: 26px;*/
+  /*color: orange*/
+}
+
+
 .form {
   background-color: var(--color-dark--2);
   border-radius: 7px;

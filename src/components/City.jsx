@@ -4,14 +4,7 @@ import {useEffect} from "react";
 import {useParams} from "react-router-dom";
 import Spinner from "./Spinner.jsx";
 import BackBtn from "./BackBtn.jsx";
-
-const formatDate = (date) =>
-  new Intl.DateTimeFormat("en", {
-    day: "numeric",
-    month: "long",
-    year: "numeric",
-    weekday: "long",
-  }).format(new Date(date));
+import {formatDate} from "../utils.js";
 
 function City() {
 

@@ -9,9 +9,7 @@ const Sidebar = () => {
     <div className={s.sidebar}>
       <Logo/>
       <AppNav />
-
       <Outlet/>
-
       <footer className={s.footer}>
         <p className={s.copyright}>
           &copy; Copyright {new Date().getFullYear()} by Marina Inc.
